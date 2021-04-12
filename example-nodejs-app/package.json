@@ -14,10 +14,8 @@
     "grafana",
     "metrics"
   ],
-  "author": "Kentaro Wakayama",
-  "license": "ISC",
   "dependencies": {
-    "gaussian": "^1.2.0",
-    "prom-client": "^12.0.0"
+    "prom-client": "^12.0.0",
+    "gaussian": "^1.1.0"
   }
 }
